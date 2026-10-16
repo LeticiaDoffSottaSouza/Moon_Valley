@@ -64,13 +64,13 @@ Para transferir uma partida da versão online para uma cópia local:
 ### Requisitos
 
 - Um navegador moderno, como Google Chrome, Microsoft Edge ou Mozilla Firefox.
-- Os arquivos completos do projeto, incluindo a pasta `assets`.
+- Os arquivos completos do projeto, incluindo as pastas `assets` e `imagens`.
 
 ### Executando localmente
 
 1. Baixe o arquivo ZIP do projeto.
 2. Extraia todos os arquivos para uma pasta no computador.
-3. Mantenha a pasta `assets` junto dos demais arquivos, preservando sua estrutura original.
+3. Mantenha as pastas `assets` e `imagens` junto dos demais arquivos, preservando sua estrutura original.
 4. Abra o arquivo `index.html` em um navegador moderno.
 
 ### Executando pelo Visual Studio Code
@@ -103,7 +103,7 @@ O jogo será aberto no navegador, permitindo testar as alterações realizadas n
     ├── JS/
     │   └── arquivos de lógica
     ├── assets/
-    │   └── imagens e recursos visuais
+    │   └── imagens e recursos visuais do jogo
     └── README.md
 
 ---
@@ -115,5 +115,33 @@ O jogo será aberto no navegador, permitindo testar as alterações realizadas n
 ♡ **Alice** ♡ **Natalia** ♡ **Letícia** ♡
 
 *Made with love, creativity and a little bit of magic.* 🎀
+
+</div>
+
+---
+
+## 🎀 Galeria
+
+<div align="center">
+
+*Um pequeno vislumbre do universo de Moon Valley.* 🌙
+
+<img src="imagens/imagem1.png" width="80%" alt="Moon Valley — imagem 1" />
+
+<br/>
+
+<img src="imagens/imagem2.png" width="80%" alt="Moon Valley — imagem 2" />
+
+<br/>
+
+<img src="imagens/imagem3.png" width="80%" alt="Moon Valley — imagem 3" />
+
+<br/>
+
+<img src="imagens/imagem4.png" width="80%" alt="Moon Valley — imagem 4" />
+
+<br/>
+
+<img src="imagens/imagem5.png" width="80%" alt="Moon Valley — imagem 5" />
 
 </div>
